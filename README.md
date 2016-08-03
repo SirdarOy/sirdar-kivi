@@ -64,8 +64,8 @@ We are also happy to accept any pull requests if they are generic enough and see
 
 ## Changelog
 
-** 1.1 **
+### 1.1
 Updated README.md, fixed translations and pulled sync changes from the main plugin this is forked from.
 
-** 1.0 **
-Init
+### 1.0
+Init. Major changes to the import process in order it to make it work with the basic XML KIVI provides.
